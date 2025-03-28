@@ -14,3 +14,17 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tfrMbCCHXlA" target="_blank"><img src="http://img.youtube.com/vi/tfrMbCCHXlA/0.jpg" 
 alt="智能影像辨識" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
+
+
+<br><br>
+
+<details>
+<summary>
+
+## 林侑呈
+
+</summary>
+(一)<br>
+(二)<br>
+(三)<br>
+</details>
