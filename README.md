@@ -7,24 +7,26 @@
 | 1    | 圖片    | <img src="original.jpg" width="100" Height="100"  />|
 | 2   | 姓名    | 林侑呈|
 | 3   | 職稱     | 學生|
-| 4  | 任職公司    | 國立高雄科技大學|
-
-
-觀看影片二
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=tfrMbCCHXlA" target="_blank"><img src="http://img.youtube.com/vi/tfrMbCCHXlA/0.jpg" 
-alt="智能影像辨識" width="400" height="250" border="10" /></a>
-<br>影片取自 youtube
-
+| 4  | 就讀學校   | 國立高雄科技大學|
 
 <br><br>
+<details>
+<summary>
+基本介紹
+</summary>
+教授好，我是林侑呈，目前就讀國立高雄科技大學電子系。平常的興趣是打球，
+聽音樂。希望透過這次的作業，能更膫解github的應用<br>
+</details>
 
 <details>
 <summary>
-
-## 林侑呈
-
+專題
 </summary>
-(一)<br>
-(二)<br>
-(三)<br>
+去年的專題競賽我們做了有關人臉辨識的專題<br>
+以下是參考的影片(影片取自youtube)<br>
+<a href="https://www.youtube.com/watch?v=CuTHyd_AulY" target="_blank"><img src="http://img.youtube.com/vi/CuTHyd_AulY/0.jpg" 
+alt="自製人臉辨識點點名" width="400" height="250" border="10" /></a>
+<br>
+
 </details>
+
